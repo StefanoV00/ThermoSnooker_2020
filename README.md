@@ -6,7 +6,7 @@ The files in the submitted zip are:
 4.	An extra functions module: func_module.py
 
 SnookerWorksheet.py
-It is the computing script. It is divided into cells, one for each logical
+is the computing script. It is divided into cells, one for each logical
 unit, which I strongly recommend executing separately.
 The parameters of the multiple simulations which are implemented are smaller
 than the ones implemented in the simulations used (and documented) in the 
@@ -18,11 +18,11 @@ hand, this involved extensive usage of loops, but on the other, if you want
 to change parameters, you only have to do so at the beginning of the cells.
 
 simulation_module.py
-It contains the simulation class with all its modules, and comments 
+contains the simulation class with all its modules, and comments 
 throughout it. The methods are described by doc strings. 
 In the last days it was enhanced to run the simulation and perform some 
 analysis with different types of balls. Not all methods were completely 
 updated (add_balls).
 
 ball_module.py
-It contains the ball class with all its modules.
+contains the ball class with all its modules.
